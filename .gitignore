@@ -1,0 +1,13 @@
+.auth\manifests\secret.yaml
+.auth\venv
+
+.converter\manifests\secret.yaml
+.converter\venv
+
+.gateway\manifests\secret.yaml
+.gateway\venv
+
+.notification\manifests\secret.yaml
+.notification\venv
+
+.rabbit\manifests\secret.yaml
