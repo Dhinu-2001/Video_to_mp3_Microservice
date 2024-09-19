@@ -11,3 +11,55 @@
 .notification\venv
 
 .rabbit\manifests\secret.yaml
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variables
+.env
+.flaskenv
+instance/
+config.py
+
+# Secrets and credentials
+*.secret
+*.key
+
+# Logs
+*.log
+*.out
+*.err
+
+# Logs
+*.log
+*.out
+*.err
+
+# SQLite database
+*.sqlite3
+*.db
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Unit test / coverage results
+.coverage
+.cache
+
+# Docker
+docker-compose.yml
+.dockerignore
+*.tar
